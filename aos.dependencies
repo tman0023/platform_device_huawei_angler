@@ -1,8 +1,8 @@
 [
   {
-    "repository":   "DirtyUnicorns/android_kernel_huawei_angler",
+    "repository":   "nathanchance/angler".
     "target_path":  "kernel/huawei/angler",
-    "branch":       "n7x"
+    "branch":       "7.1.2-flash"
   },
   {
     "repository":  "DirtyUnicorns/android_vendor_huawei",
